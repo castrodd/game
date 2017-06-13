@@ -1,0 +1,107 @@
+# This is the script for Wyncode's Week 1 Project
+# The goal is to build a text-based adventure game
+# The user will be given prompts and several options to choose from
+
+' A NIGHT OUT '
+
+# 1
+You are standing at a podium. You don't know how you got there.
+You look down and see a stack of papers. Someone in the crowd coughs impatiently.
+You wonder to yourself, 'Do I start reading? Do I dare to look around?'
+
+# 1a
+You clear your throat and read the title at the top of the first page.
+' INSTRUCTIONS FOR YOUR SURVIVAL '
+You hesitate. 'Should I continue reading? Should I make something up?'
+
+# 1b
+You decide to look around. You cover your eyes to shield the blinding spotlight.
+To your right, you see an empty row of folding chairs.
+To your left, you see a large kiddie pool. You see something moving inside of it.
+You look ahead into the audience. You start. The auditorium is fully booked.
+And everybody in the crowd is dressed in a bear costume.
+You think, 'What is in that pool? Or should I start reading this speech?'
+
+
+# 2aa
+You continue reading the lines on the page. 'I am proud to be here tonight before all of you,' you recite.
+'And it is my honor to present myself for your consumption.' Consumption? That is odd.
+Maybe it is a typo. You look up and see that the entire crowd is dressed in bear costumes.
+'Do I really want to keep reading this thing? Or should I get the hell off stage?'
+
+# 2ab
+You fumble for words. You slowly crumple up the pages on the podium.
+You look out into the crowd for inspiration. You notice everybody is dressed as a bear.
+You blurt out, 'What in the world...?'
+The bears in the first row begin to stand up. You look around and see empty folding chairs to your right.
+'Time to grab a chair and fight or run for my pathetic life,' you whisper to yourself.
+
+# 2ba
+You slowly walk towards the kiddie pool. The water is black. Wait, that's not water.
+The kiddie pool is full of slithering black snakes. You stop breathing.
+Then you stick out your hand and plunge it into the pool. You need to know if the snakes are real.
+You feel two fangs pierce the thin protection of your skin.
+For a moment, you wonder, 'Do I scream out for help? Or do I thrash and beat these snakes?'
+
+# 2bb
+You finally focus on the stack of paper on the podium.
+' INSTRUCTIONS FOR YOUR SURVIVAL '
+'What a strange title,' you think.
+Then you read the first line, 'I am proud to be here tonight before all of you.
+And it is my honor to present myself for your consumption.'
+The bears in the first row begin rubbing their paws.
+'Hold on,' you think. 'I need to get the hell out of here.'
+You stare stage left (past the kiddie pool), you stare stage right. Which way?
+
+
+#3aaa
+You take a deep breath. You faithfully read the speech before you.
+Word for word. And at the end of it, the bears stand up and clap their furry paws.
+A deer comes on stage while you are bowing and hands you a gold envelope.
+Inside, a check for a handsome sum. Your reward for a job well done.
+
+#3aab
+You begin heading toward the right wing of the stage.
+The bears in the crowd are softly growling. Once you reach backstage, you hear a roar.
+A hungry lion is standing before you. Your vision goes black.
+
+#3aba
+You lunge for a chair and start swinging at the bears climbing on stage.
+They howl and spin in circles. You jump down into the crowd and start whacking more bears.
+A rush towards the exits commences. You laugh at the top of your lungs.
+Later that night, you decide to to have dinner at an Italian restaurant.
+
+#3abb
+You jump off the stage and begin running up the main aisle.
+The doors to the lobby open and you see three giraffes standing by the concession stand.
+Outside the theatre, you hail a taxi. You feel safe until the driver turns around.
+He is an alligator. He leaps into the backseat and attempts to eat you.
+You survive with only two and a half limbs intact.
+
+#3baa
+The pain is overwhelming. You cry out for help. A pack of bears surround you.
+You fear for your life. But the bears grab the snake by the jaws and release your arm.
+You are rushed to a hospital where a team of koala nurses and panda doctors restore you to health.
+The bill comes to $87,541.
+
+#3bab
+You swing out at the snakes in the pool. The fangs sink deeper.
+You feel yourself slowly slipping deeper into the pool.
+Snakes are swarming all over your body. The last thing you hear is someone yelling, 'You didn't even read your speech.'
+
+#3bba
+You tip-toe to the left. The kiddie pool draws your attention. It is full of black snakes.
+You are staring at the slithering creatures in horror when a bag is thrown over your head.
+A rope is tied around your waist and you are dragged off stage.
+'Next,' yells the stage manager, Leo K. Potamkin. You are never hired again to give a TED talk.
+
+#3bbb
+You sprint to the right. Backstage, you find an emergency exit.
+You are in a long, narrow alleyway. A rat scuttles past your feet.
+You notice a white Maserati is parked under a fire escape.
+The headlights come on and your butler steps out of the car.
+He hands you a pair of driving gloves.
+'Thank you, Robert,' you say, seating yourself in the driver's seat.
+
+
+THE END
